@@ -54,6 +54,17 @@
       }
    },
    "release_status" : "unstable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/artamonoviv/Robokassa-Pay/issues"
+      },
+      "homepage" : "https://github.com/artamonoviv/Robokassa-Pay",
+      "repository" : {
+         "type" : "git",
+         "url" : "git://github.com/artamonoviv/Robokassa-Pay.git",
+         "web" : "https://github.com/artamonoviv/Robokassa-Pay"
+      }
+   },
    "version" : "0.001",
    "x_contributors" : [
       "Ivan Artamonov <ivan.s.artamonov@gmail.com>"
